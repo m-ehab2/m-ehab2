@@ -23,6 +23,7 @@ I'm currently immersed in the MEARN stack program, enhancing my skills and build
 Here are some projects I've been working on:
 
 1. [readme.md](https://github.com/m-ehab2/readme): a dynamic platform tailored for tech-savvy college students. This space is crafted to foster collaboration, learning, and the exchange of ideas around the latest trends and innovations in the tech world. Dive into a vibrant community where exploration and knowledge-sharing thrive.
+2. [ToDoAPI](https://github.com/m-ehab2/ToDoAPI): a robust task management Express API built with Node.js and MongoDB. This API prioritizes security, scalability, and efficient task management, offering role-based access control and secure authentication.
 
 ## 📫 Let's Connect
 
